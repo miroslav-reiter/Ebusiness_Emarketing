@@ -36,31 +36,37 @@
 * Naučiť sa myslieť a konať ekonomicky
 * Pripraviť sa na budúcu prácu alebo podnikanie v oblasti manažmentu, marketingu a reklamy
 
-## 📈 YouTube video záznamy z cvičení **Playlist E-business & E-marketing
+## 📈 YouTube video záznamy z cvičení Playlist E-business & E-marketing
 [YouTube kanál IT Academy](https://www.youtube.com/watch?v=liYEtA2utDU&list=PLIu_ZdHo7Pk_s0N5pQphQbMN6BkdvuOei)
 
 ## 🥇 Podmienky na absolvovanie predmetu 
-* **100 bodov** formou **tímovej práce** v podobe **semestrálneho projektu**
+* **100 bodov** formou **tímovej práce** v podobe komplexného **semestrálneho projektu**
 * - **Tvorba e-shopu**
 * - **Tvorba e-marketingovej stratégie**
-* Skúška – Nie je *
+* **Skúška – Nie je**
  
-## :hammer_and_wrench: Nástroje na SEO a Klasifikačnú Analýzu Kľúčových Slov
-1. [**Google Plánovač Kľúčových Slov/Google Keyword Planner**](https://ads.google.com/aw/keywordplanner), Google Search Console, Google Trends
-2. [**Skladač Fráz pre Google AdWords**](http://kw.tre.sk/sk)
-3. [**Ultimate PPC Keyword Concatenation Tool**](https://www.found.co.uk/ppc-keyword-tool/)
-4. Microsoft Excel, Open Office, Libre Office, Google Tabuľky/Google Sheets, [Google Open Refine](https://openrefine.org/)
-5. [**Keyword Tool**](https://www.keywordtool.io)
-6. [**Longtail Keyword Research Tool**](https://www.keyword.io)
-7. [**Wordtracker**](https://www.wordtracker.com/)
-8. [**MOZ**](https://moz.com/products)
-9. [**Ahrefs**](https://www.ahrefs.com/)
-10. [**Majestic SEO**](https://majestic.com/)
-11. [**Semrush**](https://www.semrush.com/)
-12. [**ubersuggest**](https://neilpatel.com/ubersuggest/)
-13. [**Raven**](https://raven.com)
-13. [**Screaming Frog**](https://www.screamingfrog.co.uk/seo-spider/)
-14. [**Collabim CZ/SK**](https://www.collabim.cz/sk)
-15. [**Marketing Miner CZ/SK**](https://www.marketingminer.com/sk)
-16. [**LuigiBox CZ/SK**](https://www.luigibox.com/)
+## :hammer_and_wrench: Nástroje a riešenia na tvorbu Eshopu
+1. **Krabicové a Online Riešenie**
+   - [Shoptet CZ/SK](https://www.shoptet.sk/)
+   - [Mioweb CZ](https://www.mioweb.cz/)
+   - [Wedos WebSite CZ](https://wedos.website/)
+   - [Webnode aj CZ/SK](https://www.webnode.com/sk/)
+   - [Wix aj CZ](https://cs.wix.com/)
+   - [Shopify EN - CZ len pomocník/nápoveda/help](https://help.shopify.com/cs)
+   - [Weebly EN](https://www.weebly.com/)
+   - [Webflow EN](https://webflow.com/)
+   
+2. **CMS Systémy + Doplnky**
+   - [WordPress + WooCommerce](https://woocommerce.com/blackcyber/)
+   - [PrestaShop](https://www.prestashop.com/en)
+   - [Joomla + Eshop/Store](https://www.joomla.org/)
+   - [Drupal + Estore/E-commerce](https://www.drupal.org/)
+   - [TYPO3](https://typo3.com/)
+
+3. **Vlastné (Custom Riešenie) postavené na nasledovných technológiach a programovacích jazykov**
+   - [Oracle JavaEE Liferay](https://www.liferay.com/)
+   - [Microsoft .NET ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet)
+   - [Python Django](https://www.djangoproject.com/)
+   - [JavaScript, ReactJS, Angular a ďalšie JS frameworky/knižnice]()
+   - [PHP](https://www.php.net/)
 

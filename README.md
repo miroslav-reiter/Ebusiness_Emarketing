@@ -41,8 +41,8 @@
 
 ## 🥇 Podmienky na absolvovanie predmetu 
 * **100 bodov** formou **tímovej práce** v podobe komplexného **semestrálneho projektu**
-* - **Tvorba e-shopu**
-* - **Tvorba e-marketingovej stratégie**
+   - **Tvorba e-shopu**
+   - **Tvorba e-marketingovej stratégie**
 * **Skúška – Nie je**
  
 ## :hammer_and_wrench: Nástroje a riešenia na tvorbu Eshopu

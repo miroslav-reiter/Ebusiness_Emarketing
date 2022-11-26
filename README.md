@@ -70,3 +70,39 @@
    - [JavaScript, ReactJS, Angular a ďalšie JS frameworky/knižnice]()
    - [PHP](https://www.php.net/)
 
+![image](https://user-images.githubusercontent.com/24510943/204084609-c91024fa-f57f-485f-b44b-d0afddacb9f5.png)
+
+## Systém a model 5W+2H
+![image](https://user-images.githubusercontent.com/24510943/204084648-e46f5207-d4b2-48b0-9a8f-52b70d8d0493.png)
+
+## Doména a Hosting
+1. **WebSupport**
+2. Webglobe Yegon
+3. Wedos
+4. Hostcreators
+5. Bluehost
+6. **WpEngine**
+7. Exohosting
+8. GoDaddy
+
+![image](https://user-images.githubusercontent.com/24510943/204084702-f64ab220-45f5-40ea-ac83-3b4c61808aea.png)
+
+## GDPR (General Data Protection Regulation)
+- Všeobecné nariadenie na ochranu osobných údajov 
+- Ide o nariadenie Európskej únie, ktoré upravuje a nahrádza doterajší zákon o ochrane osobných údajov
+- Ochrana fyzických osôb v súvislosti so spracovávaním osobných údajov patrí medzi základné ľudské práva
+- Každého, kto zhromažďuje a spracováva osobné údaje Európanov, vrátane spoločností a inštitúcií mimo EÚ, ktoré pôsobia na našom trhu
+- Nariadenie je platné pre firmy, inštitúcie, jednotlivcov – zamestnancov, zákazníkov, klientov aj dodávateľov naprieč všetkými odvetviami
+- Rovnako sa aj tých, ktorí analyzujú chovanie používateľov webov a aplikácií (GA, Hotjar)
+
+[GDPR (General Data Protection Regulation)](https://eur-lex.europa.eu/legal-content/SK/TXT/HTML/?uri=CELEX:32016R0679&from=SK#d1e4639-1-1)
+
+![image](https://user-images.githubusercontent.com/24510943/204084788-21e618b1-54b0-4004-98ac-3653de25349c.png)
+
+
+## Vybrané marketingové stratégie
+![image](https://user-images.githubusercontent.com/24510943/204084835-84134c71-5ec7-4503-a949-fc5b3e29ef61.png)
+
+### Kľúčové strategické ciele
+![image](https://user-images.githubusercontent.com/24510943/204084859-3240f6fb-5ea0-428b-bf67-0e4e5662a0fa.png)
+

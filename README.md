@@ -105,3 +105,36 @@
 ### ✨ Kľúčové strategické ciele
 ![image](https://user-images.githubusercontent.com/24510943/204084859-3240f6fb-5ea0-428b-bf67-0e4e5662a0fa.png)
 
+## 🌟 Otázky, KPI, Metriky, Ukazovatele
+### ⁉️ Základné otázky každého podnikateľa
+1. Prečo ľudia nenakupujú?
+2. Funguje nám web? 
+3. Nemáme výpadok? 
+4. Nespomalil sa web?
+5. Čo robíme zle?
+6. Niečo sme prehliadli?
+7. Neminul sa nám už kredit na Google Ads (AdWords)?
+
+### ❓ Čo sledovať v eshope/webe?
+![image](https://user-images.githubusercontent.com/24510943/206900866-e3100141-898b-4762-a9ae-b736510f9292.png)
+
+### 📊 Google Analytics a E-commerce
+![image](https://user-images.githubusercontent.com/24510943/206900945-b85a605e-3064-4b65-ae2d-9ef92d4fe68a.png)
+
+![image](https://user-images.githubusercontent.com/24510943/206900950-2f62af98-552a-48da-a6d9-7b51c27eafa4.png)
+
+![image](https://user-images.githubusercontent.com/24510943/206900953-39d133bf-aff5-43f8-9ed9-bc20b619b7b0.png)
+
+![image](https://user-images.githubusercontent.com/24510943/206900956-f8b71603-dda4-4c76-866e-bef085344120.png)
+
+![image](https://user-images.githubusercontent.com/24510943/206900961-18208271-5379-4f74-aea0-d8efb80bafdf.png)
+
+![image](https://user-images.githubusercontent.com/24510943/206900966-0b340b28-a106-4254-a8e5-ea7e02ca9236.png)
+
+![image](https://user-images.githubusercontent.com/24510943/206900972-9b44c1c1-9564-4b7f-8d87-9891b340e7ea.png)
+
+![image](https://user-images.githubusercontent.com/24510943/206900977-9d23f49e-5510-4d3e-af92-24d9001210e8.png)
+
+
+
+

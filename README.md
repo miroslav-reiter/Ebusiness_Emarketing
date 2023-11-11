@@ -44,6 +44,15 @@
    - **Tvorba e-shopu**
    - **Tvorba e-marketingovej stratégie**
 * **Skúška – Nie je**
+
+## 🏆 Ako a Čo hodnotím v odovzdanom Projekte?
+Krátka odpoveď: **Všetko**.
+
+Dlhšia odpoveď:
+1. Splnenie povinných náležitostí.
+1. Obsah, forma a kvalita prezentácie.
+1. Pripravenosť a odprezentovanie/prednes.
+1. Pridaná hodnota a prínosy projektu.
  
 ## :hammer_and_wrench: Nástroje a riešenia na tvorbu Eshopu
 1. **Krabicové a Online Riešenie**

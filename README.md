@@ -1,8 +1,8 @@
 # 🛒 E-business & E-marketing
 * Prednášky/Cvičenia E-business & E-marketing
 * Univerzita Komenského v Bratislave Fakulta managementu UK FM 2023
-* Prednášajúci: PhDr. Ing. Mgr. et Mgr. et Mgr. et Mgr. Miroslav Reiter, DiS., MBA, MPA, MSC, DBA, Ing. Paed. IGIP 
-* Kontakt: miroslav.reiter@it-academy.sk | miroslav.reiter@fm.uniba.sk 
+* Prednášajúci: RNDr. PhDr. Ing. Mgr. et Mgr. et Mgr. Miroslav Reiter, DiS., MBA, MPA, MSC, DBA, Ing. Paed. IGIP 
+* Kontakt: riaditel@itacademy.sk | miroslav.reiter@fm.uniba.sk 
 * Úroveň: Začiatočník/mierne pokročilý
 * Odporúčané kolaboračné nástroje na prácu v tíme: **Mural**, **Jamboard**, Miro, Microsoft Word a **PowerPoint v OneDrive**, Google Workspace
 
